@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9b58d832.css",
+    "main.js": "/static/js/main.551d702e.js",
+    "magazin/static/media/15pro_natural_19.webp": "/magazin/static/media/15pro_natural_19.aec6a7ba4168e63a8257.webp",
+    "magazin/static/media/iphone-13-midnight-select-2021.png": "/magazin/static/media/iphone-13-midnight-select-2021.0d870a7ce4b3a796d9e9.png",
+    "magazin/static/media/261934_qgssvy.webp": "/magazin/static/media/261934_qgssvy.8017c270f9de02c9063a.webp",
+    "index.html": "/index.html",
+    "main.9b58d832.css.map": "/static/css/main.9b58d832.css.map",
+    "main.551d702e.js.map": "/static/js/main.551d702e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b58d832.css",
+    "static/js/main.551d702e.js"
+  ]
+}
